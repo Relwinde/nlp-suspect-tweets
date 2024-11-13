@@ -1,5 +1,11 @@
-pip install joblib==1.3.2
 import streamlit as st
+    @st.cache_resource 
+    def install_joblib():
+        !pip install joblib==1.3.2
+        
+    install_joblib()
+    import joblib
+
 import joblib
 import numpy as np
 from transformers import DistilBertTokenizer, DistilBertModel
