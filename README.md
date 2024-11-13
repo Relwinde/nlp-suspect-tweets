@@ -35,8 +35,7 @@ Plusieurs modèles de classification sont entraînés et comparés, notamment la
 
 ## Installation
 
-1. Cloner le référentiel : `git clone <repository_url>`
-2. Installer les dépendances : `pip install -r requirements.txt`
+1. Cloner le référentiel : `git clone <https://github.com/Relwinde/nlp-suspect-tweets>`
 
 ## Utilisation
 
