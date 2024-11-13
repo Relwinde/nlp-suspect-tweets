@@ -1,4 +1,4 @@
-!pip install joblib==1.3.2
+pip install joblib==1.3.2
 import streamlit as st
 import joblib
 import numpy as np
