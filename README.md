@@ -39,14 +39,15 @@ Plusieurs modèles de classification sont entraînés et comparés, notamment la
 
 ## Utilisation
 
-1. Ouvrir le notebook dans Google Colab.
+1. Ouvrir le notebook "process_v_sogo.ipynb" dans Google Colab.
 3. Charger le fichier tweets_suspects.csv dans le stockage de la session
 2. Exécuter les cellules du notebook dans l'ordre.
 3. Le modèle entraîné est sauvegardé dans le fichier `rf_model.pkl`.
 
 ## Auteurs
 
-* [Your Name]
+* OUEDRAOGO Relwindé Guillaume Victorien    
+* SOGO Armel Emmanuel
 
 ## Licence
 
